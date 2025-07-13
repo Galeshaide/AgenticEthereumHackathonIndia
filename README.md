@@ -1,6 +1,6 @@
 # Agentic Ethereum Hackathon India
 
-# 🛠 Project Title - [Team Name]
+# 🛠 GrameenChain: A Decentralized MicroFinance Loan App For RuralIndia -ChainLinkers
 
 Welcome to our submission for the *Agentic Ethereum Hackathon* by Reskilll & Geodework! This repository includes our project code, documentation, and related assets.
 
@@ -8,14 +8,14 @@ Welcome to our submission for the *Agentic Ethereum Hackathon* by Reskilll & Geo
 
 ## 📌 Problem Statement
 
-We addressed the challenge: *“[Problem Statement Title]”*  
+We addressed the challenge: *“Millions in India lack formal access to bank and credit.Traditional microfinance imposes high interest rates and requires collateral,Manual loan processes lack transparency and efficiency. No  reliable or verifiable credit reputation system for small borrowers.Absence of borderless, decentralized, community-driven lending platforms”*
 Brief description of the challenge and why it matters.
 
 ---
 
 ## 💡 Our Solution
 
-*Project Name:* [Your Project Name]  
+*Project Name:*  GrameenChain: A Decentralized MicroFinance Loan App For RuralIndia
 A short pitch of your solution — what you built, who it’s for, and why it’s impactful.
 
 ---
